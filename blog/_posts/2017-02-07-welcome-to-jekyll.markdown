@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: wm-blog-post
+title:  "WalletMate Test!"
 date:   2017-02-07 15:28:36 +0800
 categories: jekyll update
 ---

@@ -69,6 +69,7 @@
 		<!-- Style CSS
 		============================================ -->
         <link rel="stylesheet" href="/style.css">
+
         
 		<!-- Color CSS
 		============================================ -->
@@ -165,19 +166,30 @@
                 </header>
                 <!--End of Header Area-->
 
-                <!--Breadcrumb Banner Area Start-->
-                <div class="breadcrumb-banner-area">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="breadcrumb-text">
-                                    <h1 class="text-center">Blog</h1>
+                <!--Background Area Start-->
+                <div class="background-area overlay-dark-fullwidth no-animation">
+                    
+                        <img src="/img/banner/banner.jpg" alt="WalletMate Test!"/>
+                    
+
+                    <div class="banner-content static-text">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="text-content-wrapper full-width">
+                                        <div class="text-content text-center">
+                                            <h1 class="title1 cd-headline rotate-1 text-center mb-20 mt-80">
+                                                WalletMate Test!
+                                            </h1>
+                                            <p class="title-date">7 February, 2017</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>	 
                     </div>
                 </div>
-                <!--End of Breadcrumb Banner Area-->
+                <!--End of Background Area-->
 
 
                 <!--About Page Area Start-->
@@ -186,84 +198,36 @@
                         <div class="row">
                             <div class="col-md-9">
                                 <div class="about-text-container">
-                                    <!-- This loops through the paginated posts -->
+                                    <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
-<h1><a href="/blog/welcome-to-jekyll/">WalletMate Test!</a></h1>
-<p>
-    
-        <a href="#">jekyll</a>
-    
-        <a href="#">update</a>
-    
-</p>
-<p class="author">
-    <span class="date">7 February, 2017</span>
-</p>
-<div class="content">
-    <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
+<p>Jekyll also offers powerful support for code snippets:</p>
 
-</div>
-<hr/>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<h1><a href="/blog/introduction/">Introduction</a></h1>
-<p>
-    
-        <a href="#">Credit cards</a>
-    
-        <a href="#">Update</a>
-    
-        <a href="#">Tips</a>
-    
-        <a href="#">Finance</a>
-    
-        <a href="#">Mortgage</a>
-    
-</p>
-<p class="author">
-    <span class="date">7 February, 2017</span>
-</p>
-<div class="content">
-    <p>Hello. This is Prashant Trivedy. Testing. Yolo</p>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
 
-</div>
-<hr/>
-
-
-
-<!-- Pagination links -->
-<div class="pagination">
-
-    <span class="previous">Previous</span>
-
-<span class="page_number ">Page: 1 of 1</span>
-
-    <span class="next ">Next</span>
-
-</div>
-
-    
+ 
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <h4>Categories</h4>
-                                <ul class="categories-list">
-                                    
-                                    <li><a href="">Credit cards</a></li>
-                                    
-                                    <li><a href="">Update</a></li>
-                                    
-                                    <li><a href="">Tips</a></li>
-                                    
-                                    <li><a href="">Finance</a></li>
-                                    
-                                    <li><a href="">Mortgage</a></li>
-                                    
-                                    <li><a href="">jekyll</a></li>
-                                    
-                                    <li><a href="">update</a></li>
-                                    
-                                </ul>
+        
+                                <div class="list-group">
+                                    <h4>Recent Posts</h4>
+                                    <ul class="recent-posts-list">
+                                        
+                                            <li><a href="/blog/welcome-to-jekyll/">WalletMate Test!</a></li>
+                                        
+                                            <li><a href="/blog/introduction/">Introduction</a></li>
+                                        
+                                    </ul>
+                                </div>
+
                             </div>
                         </div>
                     </div>
