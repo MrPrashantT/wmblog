@@ -10,7 +10,11 @@ description: "Describe this nonsense."
     <div class="col-md-3 col-sm-12">
         <div class="listing-container">
             <a href="{{site.baseurl}}{{post.url}}">
-                <img class="blog-thumbnail-image" src="{{ post.image }}" alt="{{post.title}}"/>
+                {% if post.image%}
+                    <img class="blog-thumbnail-image" src="{{ post.image }}" alt="{{post.title}}"/>
+                {% else %}
+                    <img class="blog-thumbnail-image" src="/img/banner/banner.jpg" alt="{{post.title}}"/>
+                {% endif %}
             </a>
         </div>
     </div>
