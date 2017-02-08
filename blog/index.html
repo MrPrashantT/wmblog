@@ -6,19 +6,33 @@ description: "Describe this nonsense."
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-<p>
-    {% for category in post.categories %}
-        <a href="#">{{ category }}</a>
-    {% endfor %}
-</p>
-<p class="author">
-    <span class="date">{{ post.date | date: "%-d %B, %Y"}}</span>
-</p>
-<div class="content">
-    {{ post.excerpt }}
+<div class="row">
+    <div class="col-md-3 col-sm-12">
+        <div class="listing-container">
+            <a href="{{site.baseurl}}{{post.url}}">
+                <img class="blog-thumbnail-image" src="{{ post.image }}" alt="{{post.title}}"/>
+            </a>
+        </div>
+    </div>
+
+    <div class="col-md-9 col-sm-12">
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <p>
+            {% for category in post.categories %}
+                <a href="#">{{ category }}</a>
+            {% endfor %}
+        </p>
+        <p class="author">
+            <span class="date">{{ post.date | date: "%-d %B, %Y"}}</span>
+        </p>
+        <div class="content">
+            {{ post.excerpt }}
+        </div>
+    </div>
 </div>
-<hr/>
+<div class="row">
+        <hr/>
+</div>
 {% endfor %}
 
 
