@@ -1,0 +1,9 @@
+require 'tmpdir'
+
+task :default => :generate
+
+desc "Generate jekyll site"
+task :generate do
+  puts "## Generating Site with Jekyll"
+  system "jekyll build"
+end
