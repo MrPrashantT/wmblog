@@ -12,9 +12,6 @@ WalletMate is the simplest, fastest way to compare financial products in New Zea
 
 We're still young with lots of room to improve and grow. We hope you'll stick around with us throughout our journey, as we stick with you in your journey to making better financial decisions. If you have any questions, feedback, suggestions or comments, post them below. If you know anyone that might benefit from WalletMate, share our website with them. 
 
-Cheers,
-Prashant & Santhan
+Cheers,  
+Prashant & Santhan  
 Co-founders | WalletMate
-
-
-
