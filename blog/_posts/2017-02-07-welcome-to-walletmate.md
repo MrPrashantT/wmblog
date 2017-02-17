@@ -1,6 +1,7 @@
 ---
 layout: wm-blog-post
 title:  Welcome to WalletMate!
+teaser: Thanks for popping by. Not sure who we are, or what we do? Read on!
 date:   2017-02-07 15:28:36 +0800
 categories: ["Update", "Tips", "WalletMate"]
 image: https://mortgagehubprod.blob.core.windows.net/walletmate/blog/introducing-walletmate.jpeg 
