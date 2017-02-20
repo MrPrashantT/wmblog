@@ -5,8 +5,13 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Compare best financial products, credit cards, savings accounts in New Zealand | WalletMate </title>
-    <meta name="description" content="WalletMate is a free tool for finding and comparing credit cards from all major credit card Providers in New Zealand.">
+    <title>{{ page.title }} | WalletMate </title>
+		
+    {% if page.teaser %}
+    <meta name="description" content="{{page.teaser}}">
+    {% else %}
+    <meta name="description" content="{{page.title}}">
+    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- favicon
