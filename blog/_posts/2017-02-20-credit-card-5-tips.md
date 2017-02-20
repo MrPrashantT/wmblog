@@ -14,7 +14,7 @@ Here are five simple things you do to maximise the potential of your credit card
 
 ### 1. Maximise your rewards
 
-One of the perks of owning a credit card is that you’re often rewarded just for using it. Whether it’s Airpoints, luxury goods or cold hard cash, compare credit cards in NZ to ensure your provider’s reward system suits your interests and matches your spending habits.
+One of the perks of owning a credit card is that you’re often rewarded just for using it. Whether it’s Airpoints, luxury goods or cold hard cash, [compare credit cards in NZ](https://www.walletmate.co.nz/compare-credit-cards.html) to ensure your provider’s reward system suits your interests and matches your spending habits.
 
 ### 2. Don’t be afraid to chargeback
 
