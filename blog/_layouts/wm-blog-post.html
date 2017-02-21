@@ -12,6 +12,13 @@
     {% else %}
     <meta name="description" content="{{page.title}}">
     {% endif %}
+	
+    {% if page.image %}
+	<meta property="og:image" content="{{ page.image }}" />
+    {% else %}
+	<meta property="og:image" content="http://walletmate.co.nz/img/banner/banner.jpg" />
+    {% endif %}	
+	
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- favicon
