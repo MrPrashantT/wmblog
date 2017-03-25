@@ -20,13 +20,13 @@ When using a debit card, the money required for a given transaction is taken fro
 
 In contrast, many credit cards feature reward systems that essentially gives you free stuff (typically Airpoints, luxury goods or cash) for making transactions on the card. These rewards can stack up surprisingly fast and provide you with some compensation for all your hard shopping. 
 
-Use our handy NZ credit card comparison tool to find the card (and rewards!) best for you.
+Use our [handy NZ credit card comparison tool](https://walletmate.co.nz/compare-credit-cards.html#/) to find the card (and rewards!) best for you.
 
 **2. Improve your credit scores**
 -----------------------------
 You might not realise it, but behind the scenes certain organisations are tracking your credit history (essentially how reliable you are as a borrower). Financial institutions use this information to decide whether or not to issue you a loan, grant you a mortgage and increase your credit limit.
 
-Using your credit card and paying it off on time is an effective way to build your credit score and prove to banks that you’re a trustworthy borrower. You cannot do this with a debit card.
+[Using your credit card](https://www.walletmate.co.nz/blog/credit-card-5-tips/) and paying it off on time is an effective way to build your credit score and prove to banks that you’re a trustworthy borrower. You cannot do this with a debit card.
 
 **3. Make sweet, sweet chargebacks**
 --------------------------------
