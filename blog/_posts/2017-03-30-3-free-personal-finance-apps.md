@@ -15,7 +15,7 @@ Yes, you.
 
 Whether you’re working on paying off [your credit card](https://walletmate.co.nz/compare-credit-cards.html#/) debt or saving up for a winter escape to somewhere tropical, here are three of the best apps you should have on your phone:
 
-1. Wally
+**1. Wally**
 --------
 
 Wally is the perfect app for anyone who’s ever wondered where all their money goes (i.e. all of us).
@@ -24,7 +24,7 @@ The app provides detailed insight into your personal finances, and allows you to
 
 Available on [Android](https://play.google.com/store/apps/details?id=me.wally.android.plus&referrer=utm_source=website&utm_medium=home%2520download%2520page%2520button) and [iOS](https://itunes.apple.com/us/app/wally-smart-personal-finance/id610314677?mt=8).
 
-2. PocketSmith
+**2. PocketSmith**
 --------------
 
 PocketSmith is one of many modern apps that automates budgeting tasks by connecting directly to your bank account and using this data to help you track your spending and saving. 
@@ -35,7 +35,7 @@ Track income and expenses, create cash projections and customise your budget to 
 
 Available on [iOS](https://itunes.apple.com/nz/app/pocketsmith-app/id1159515083); the [Android version](https://play.google.com/apps/testing/com.pocketsmith.mobile) is still in development.
 
-3. Goodbudget
+**3. Goodbudget**
 -------------
 
 It might not have the most imaginative name, but Goodbudget is an excellent tool for families, flatmates, couples and anyone else who shares expenses. Set budgets for the various outgoings in your life (e.g. groceries, petrol, utilities, etc), create savings goals and sync it all across users and devices to ensure everyone’s on the same page when it comes to the household’s finances.
